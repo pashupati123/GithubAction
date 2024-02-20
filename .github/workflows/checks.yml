@@ -1,4 +1,4 @@
-name: hello-world
+name: DocString Check
 on:
   pull_request:
     branches: [ main ]
